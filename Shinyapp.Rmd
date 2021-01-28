@@ -1,0 +1,23 @@
+---
+title: "Developing Data Products Week 4 assignment"
+author: "K Ajay Rangan"
+date: "03/11/2020"
+output: html_document
+---
+
+## Reproducible Pitch
+
+Using the mtcars dataset, This project will compare all variables with MPG.
+
+- 
+
+```{r}
+library(datasets)
+head(mtcars)
+```
+---
+
+The link to the project is (https://ajayrangan18.shinyapps.io/shinyapptwo/)
+
+The UI and Server files for the Shiny app can be found here 
+(https://github.com/ajay1808/Developing-Data-Products-Coursera)
